@@ -1,0 +1,20 @@
+{
+    "short_name": "Directorio Pamplona",
+    "name": "Directorio Comercial Pamplona",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "type": "assets/image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "favicon.png",
+            "type": "assets/image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3849ff"
+}
